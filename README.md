@@ -1,60 +1,65 @@
-## Hi there, I'm Antonín! 👋
-### 👨‍💻 Full Stack Web & Native Developer | Web3 & AI 
+# Hi there, I'm Antonín! 👋
 
-[cite_start]I am a software engineer with **9+ years of experience** building everything from massive big systems to utility native apps[cite: 4, 5]. [cite_start]Currently, I am working at Access Labs[cite: 21, 23].
+### 👨‍💻 Full Stack Web & Native Developer | Web3 & AI
 
-I love solving complex engineering problems and creating beautiful UIs, be it for large SaaS apps like my (unfortunately failed) startup Bill Systems or for my caffeine tracking app, Caffeine Clock.
+I am a professional web developer with 9+ years of experience building everything from massive enterprise systems to utility native apps . Currently, I am working at Access Labs .
 
-## Projects
+I love solving complex engineering problems and creating beautiful UIs, be it for large SaaS apps like my startup Bill Systems or for my caffeine tracking app, Caffeine Clock.
 
-### ☕ **[Caffeine Clock](https://play.google.com/store/apps/details?id=com.AWSoft.CaffeineClock&hl=en)**
+---
+
+## 🚀 Featured Projects
+
+### ☕ **Caffeine Clock**
 *A React Native app for tracking caffeine intake and sleep optimization.*
-* [cite_start]**The Win:** Successfully launched to **15,000+ users** with a **4.7-star rating** on Google Play[cite: 52, 53].
-* **Tech:** React Native, Mobile Architecture.
+* **The Win:** Successfully launched to **15,000+ users** with a **4.7-star rating** on Google Play .
+* **Tech:** React Native, Mobile Architecture .
 * **Status:** Active & maintained.
 
 ### 🏛️ **Bill Systems**
 *A comprehensive SaaS platform for law offices in Czechia.*
-* [cite_start]**The Role:** Co-founder & CTO[cite: 46, 48].
-* **The Engineering:** Built the entire software stack from scratch. [cite_start]While the business is no longer active, this project represents my deepest dive into complex system architecture, scalability, and full-product lifecycle management[cite: 49].
+* **The Role:** Co-founder & CTO .
+* **The Engineering:** Built the entire software stack from scratch. While the business is no longer active, this project represents my deepest dive into complex system architecture, scalability, and full-product lifecycle management .
 
 ### 🤖 **Access Intelligence (Current Work)**
 *Launchpad for tokens supported by AI agents.*
-* [cite_start]**My Contribution:** Handling frontend architecture, design and a lot of backend logic for the Access Intelligence platform on Solana[cite: 23, 24].
+* **My Contribution:** Handling frontend architecture, design, and a significant portion of backend logic for the Access Intelligence platform on Solana .
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-[cite_start]I have a wide spectrum of experience ranging from large enterprise apps (IBM, Mews), creating own SaaS apps (Bill Systems) to utility native apps[cite: 5, 14, 15].
+I have a wide spectrum of experience ranging from large enterprise apps (IBM, Mews) to small utility native apps .
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]TypeScript, JavaScript, Go [cite: 38, 41] |
-| **Frontend** | [cite_start]React, Next.js, HTML/CSS [cite: 39] |
-| **Mobile** | [cite_start]React Native (iOS & Android) [cite: 35, 40] |
+| **Languages** | TypeScript, JavaScript, Go |
+| **Frontend** | React, Next.js, HTML/CSS |
+| **Mobile** | React Native (iOS & Android) |
 | **Backend** | Node.js, Go, Microservices |
-| **Web3** | [cite_start]Solana, Blockchain Integration [cite: 6, 37] |
-| **Other** | [cite_start]AI Agents, E2E Testing, System Architecture [cite: 23, 42] |
+| **Web3** | Solana, Blockchain |
+| **Other** | AI Agents, E2E Testing, System Architecture |
 
 ---
 
 ## 💼 Experience at a Glance
 
-* **Senior Full Stack Developer** @ Access Labs (Remote) | [cite_start]*Nov 2024 - Present* [cite: 21]
-* **Senior Full Stack Developer** @ Tatum | [cite_start]*2024* [cite: 18, 19]
-* **Senior Frontend Developer** @ Mews (Finance Team) | [cite_start]*2021 - 2023* [cite: 15, 16]
-* **Watson iLab Web Developer** @ IBM | [cite_start]*2017 - 2021* [cite: 14]
+* **Senior Full Stack Developer** @ Access Labs (Remote) | *Nov 2024 - Present* 
+* **Senior Full Stack Developer** @ Tatum | *Jan 2024 - Nov 2024* 
+* **Senior Frontend Developer** @ Mews (Finance Team) | *Jun 2021 - Dec 2023* 
+* **Watson iLab Web Developer** @ IBM | *Oct 2017 - Mar 2021* 
 
 ---
 
 ## 🎓 Education
-* **Ing. (Masters Equiv.) [cite_start]in Software Engineering** - Czech Technical University in Prague [cite: 29, 32]
-* **Bc. in Software Engineering** - Czech Technical University in Prague [cite: 26]
+
+* **Ing. (Masters Equiv.) in Software Engineering** - Czech Technical University in Prague 
+* **Bc. in Software Engineering** - Czech Technical University in Prague 
 
 ---
 
 ## 🌍 Outside of Code
-I'm a geek, an avid traveller, and always looking to learn more about the world[cite: 44]. I also occasionally build small fun projects like **Faviconizer** and game price trackers[cite: 56].
 
-📫 **Get in Touch:** [LinkedIn](https://www.linkedin.com/) • [Email](mailto:antonin.wingender@gmail.com) • [X Profile](https://x.com/WingenderA) • Telegram: @AWingender
+I'm a geek, an avid traveller, and always looking to learn more about the world . I also occasionally build small fun projects like **Faviconizer** and game price trackers .
+
+📫 **Get in Touch:** [LinkedIn](https://www.linkedin.com/) • [Email](mailto:antonin.wingender@gmail.com) • [X Profile](https://x.com/) • Telegram: @AWingender
