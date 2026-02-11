@@ -2,9 +2,9 @@
 
 ### 👨‍💻 Full Stack Web & Native Developer | Web3 & AI
 
-I am a professional web developer with 9+ years of experience building everything from massive enterprise systems to utility native apps . Currently, I am working at Access Labs .
+I am a professional web developer with 9+ years of experience building everything from massive enterprise systems to utility native apps.
 
-I love solving complex engineering problems and creating beautiful UIs, be it for large SaaS apps like my startup Bill Systems or for my caffeine tracking app, Caffeine Clock.
+I love solving complex engineering problems and creating beautiful UIs, be it for large SaaS apps like my startup Bill Systems or for my caffeine tracking app, Caffeine Clock. Particularly lately I love to work with animations.
 
 ---
 
