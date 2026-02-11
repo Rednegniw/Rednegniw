@@ -4,11 +4,9 @@
 
 [cite_start]I am a software engineer with **9+ years of experience** building everything from massive big systems to utility native apps[cite: 4, 5]. [cite_start]Currently, I am working at Access Labs[cite: 21, 23].
 
-I love solving complex engineering problems and creating beautiful UIs, be it for 
+I love solving complex engineering problems and creating beautiful UIs, be it for large SaaS apps like my (unfortunately failed) startup Bill Systems or for my caffeine tracking app, Caffeine Clock.
 
----
-
-## 🚀 Featured Projects
+## Projects
 
 ### ☕ **[Caffeine Clock](https://play.google.com/store/apps/details?id=com.AWSoft.CaffeineClock&hl=en)**
 *A React Native app for tracking caffeine intake and sleep optimization.*
