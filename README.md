@@ -1,6 +1,5 @@
-# Hi there, I'm Antonín! 👋
-
-### 👨‍💻 Full Stack Web & Native Developer | Crypto & AI Enthusiast
+## Hi there, I'm Antonín! 👋
+### 👨‍💻 Full Stack Web & Native Developer | Web3 & AI 
 
 [cite_start]I am a software engineer with **9+ years of experience** building everything from massive big systems to utility native apps[cite: 4, 5]. [cite_start]Currently, I am working at Access Labs[cite: 21, 23].
 
