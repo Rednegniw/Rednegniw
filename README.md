@@ -12,7 +12,7 @@ I love solving complex engineering problems and creating beautiful UIs, be it fo
 
 ### ☕ **Caffeine Clock**
 *A React Native app for tracking caffeine intake and sleep optimization.*
-* **The Win:** Successfully launched to **15,000+ users** with a **4.7-star rating** on Google Play .
+* **The Win:** Successfully launched to **15,000+ users** with a **4.8-star rating** on Google Play .
 * **Tech:** React Native, Mobile Architecture .
 * **Status:** Active & maintained.
 * [Play Store Link](https://play.google.com/store/apps/details?id=com.AWSoft.CaffeineClock)
