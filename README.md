@@ -15,21 +15,25 @@ I love solving complex engineering problems and creating beautiful UIs, be it fo
 * **The Win:** Successfully launched to **15,000+ users** with a **4.7-star rating** on Google Play .
 * **Tech:** React Native, Mobile Architecture .
 * **Status:** Active & maintained.
+* [Play Store Link](https://play.google.com/store/apps/details?id=com.AWSoft.CaffeineClock)
+* [App Store Link](https://apps.apple.com/us/app/caffeine-clock-track-caffeine/id6504160396)
 
 ### 🏛️ **Bill Systems**
 *A comprehensive SaaS platform for law offices in Czechia.*
 * **The Role:** Co-founder & CTO .
 * **The Engineering:** Built the entire software stack from scratch. While the business is no longer active, this project represents my deepest dive into complex system architecture, scalability, and full-product lifecycle management .
+* [Bill Systems](https://billsystems.app)
 
-### 🤖 **Access Intelligence (Current Work)**
+### 🤖 **Access Intelligence**
 *Launchpad for tokens supported by AI agents.*
 * **My Contribution:** Handling frontend architecture, design, and a significant portion of backend logic for the Access Intelligence platform on Solana .
+* [Access Intelligence Launchpad](https://launch.accessprotocol.co/)
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-I have a wide spectrum of experience ranging from large enterprise apps (IBM, Mews) to small utility native apps .
+I have a wide spectrum of experience ranging from large enterprise apps (IBM, Mews) to small utility native apps like my own app, Caffeine Clock.
 
 | Domain | Technologies |
 | :--- | :--- |
