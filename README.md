@@ -1,6 +1,6 @@
 # Hi there, I'm Antonín! 👋
 
-### 👨‍💻 Full Stack Web & Native Developer | Web3 & AI
+### 👨‍💻 Full Stack Web & Native Developer
 
 I am a professional web developer with 9+ years of experience building everything from massive enterprise systems to utility native apps.
 
