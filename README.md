@@ -28,19 +28,19 @@ Worked in an internal innovation team called Watson iLab, building POCs and cust
 
 🚀 Personal Projects & Entrepreneurship
 
-[https://github.com/Rednegniw/number-flow-react-native](**Number Flow React Native**): Beautiful number animations for React Native.
+**[number-flow-react-native](https://github.com/Rednegniw/number-flow-react-native)**: Beautiful number animations for React Native.
 
 Built an open-source beautiful animated number transition library for React Native with both View-based and Skia renderers, full Intl.NumberFormat support, and many other features. 270+ GitHub stars, 3000+ weekly npm downloads. Currently the most downloaded number animation library for React Native.
 
-[https://www.caffeineclock.app](**Caffeine Clock**): A React Native app for tracking caffeine intake and sleep optimization.
+**[Caffeine Clock](https://www.caffeineclock.app)**: A React Native app for tracking caffeine intake and sleep optimization.
 
 Built and currently maintaining a caffeine tracking app for iOS and Android with 15,000+ downloads across both App Store and Google Play and a 4.8-star rating on Google Play. Implemented a pharmacokinetic model (two-compartment with absorption/elimination phases) to predict real-time caffeine levels. Built a custom interactive chart from scratch using React Native Skia with infinite scroll and time-window sliding. Maintained a parallel Kotlin implementation of the caffeine engine for the Android home screen widget. _React Native, Expo, TypeScript, Skia, Kotlin, SQLite._
 
-[https://billsystems.app](**Bill Systems**): A comprehensive SaaS platform for law offices in Czechia.
+**[Bill Systems](https://billsystems.app)**: A comprehensive SaaS platform for law offices in Czechia.
 
 Co-founded and built a full-stack SaaS platform for Czech law offices from scratch. The platform included project and client management, invoicing, file management, real-time chat via WebSockets, an event and activity tracking system, role-based access control, and integrations with Czech legal systems. Also built a companion mobile app in React Native, with many of the same features. Used by ~10 law offices. _Next.js, TypeScript, Go, React Native, Expo._
 
-[https://faviconizer.com](**Faviconizer**): A free online tool to convert any image into a favicon without hassle or ads.
+**[Faviconizer](https://faviconizer.com)**: A free online tool to convert any image into a favicon without hassle or ads.
 
 ---
 
