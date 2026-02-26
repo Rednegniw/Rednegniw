@@ -42,16 +42,14 @@ Co-founded and built a full-stack SaaS platform for Czech law offices from scrat
 
 **[Faviconizer](https://faviconizer.com)**: A free online tool to convert any image into a favicon without hassle or ads.
 
----
-
-## 🎓 Education
+🎓 **Education**
 
 * **Ing. (Masters Equiv.) in Software Engineering** - Czech Technical University in Prague 
 * **Bc. in Software Engineering** - Czech Technical University in Prague 
 
 ---
 
-## 🌍 Outside of Code
+🌍 **Outside of Code**
 
 I'm a geek, an avid traveller, and always looking to learn more about the world. Trying to juggle my many hobbies at once.
 
