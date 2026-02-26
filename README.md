@@ -28,7 +28,7 @@ Worked in an internal innovation team called Watson iLab, building POCs and cust
 
 🚀 Personal Projects & Entrepreneurship
 
-[https://github.com/Rednegniw/number-flow-react-native](**number-flow-react-native**): Beautiful number animations for React Native.
+[https://github.com/Rednegniw/number-flow-react-native](**Number Flow React Native**): Beautiful number animations for React Native.
 
 Built an open-source beautiful animated number transition library for React Native with both View-based and Skia renderers, full Intl.NumberFormat support, and many other features. 270+ GitHub stars, 3000+ weekly npm downloads. Currently the most downloaded number animation library for React Native.
 
