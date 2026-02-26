@@ -44,10 +44,8 @@ Co-founded and built a full-stack SaaS platform for Czech law offices from scrat
 
 🎓 **Education**
 
-* **Ing. (Masters Equiv.) in Software Engineering** - Czech Technical University in Prague 
-* **Bc. in Software Engineering** - Czech Technical University in Prague 
-
----
+**Ing. (Masters Equiv.) in Software Engineering** - Czech Technical University in Prague 
+**Bc. in Software Engineering** - Czech Technical University in Prague 
 
 🌍 **Outside of Code**
 
