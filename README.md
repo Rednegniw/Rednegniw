@@ -20,7 +20,7 @@ Built out the [customer-facing developer dashboard](https://dashboard.tatum.io/)
 
 **Senior Frontend Developer** @ Mews | *Jun 2021 - Dec 2023*
 
-Owned the frontend billing flow in [Mews' hospitality platform](https://app.mews.com/), used by thousands of hotel properties across 55+ countries. Built and maintained the UI for invoicing and financial reporting. Migrated legacy server-rendered views to React. Implemented list virtualization for billing screens handling large reservations of 100+ guests. Part of an 8-person team within a 100+ engineer organization. During my time there I improved a lot as a developer on a large codebase within a team. Used primarily _React, TypeScript._
+Owned the frontend billing flow in [Mews' hospitality platform](https://app.mews.com/), used by thousands of hotel properties across 55+ countries. Built and maintained the UI for invoicing and financial reporting. Migrated legacy server-rendered views to React. Implemented list virtualization for billing screens handling large reservations of 100+ guests. Part of an 8-person team within a 100+ engineer organization. Used primarily _React, TypeScript._
 
 **Watson iLab Web Developer** @ IBM | *Oct 2017 - Mar 2021*
 
@@ -30,7 +30,7 @@ Worked in an internal innovation team called Watson iLab, building POCs and cust
 
 **[number-flow-react-native](https://github.com/Rednegniw/number-flow-react-native)**: Beautiful number animations for React Native.
 
-Built an open-source beautiful animated number transition library for React Native with both View-based and Skia renderers, full Intl.NumberFormat support, and many other features. 270+ GitHub stars, 3000+ weekly npm downloads. Currently the most downloaded number animation library for React Native.
+Built an open-source animated number transition library for React Native with both View-based and Skia renderers, full Intl.NumberFormat support, and many other features. 270+ GitHub stars, 3000+ weekly npm downloads. Actively working on this one!
 
 **[Caffeine Clock](https://www.caffeineclock.app)**: A React Native app for tracking caffeine intake and sleep optimization.
 
