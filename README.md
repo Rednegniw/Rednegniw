@@ -26,7 +26,7 @@ Owned the frontend billing flow in [Mews' hospitality platform](https://app.mews
 
 Worked in an internal innovation team called Watson iLab, building POCs and customer-facing products. Built the frontend for Vodafone Czech Republic's customer service chatbot (Tobi), serving millions of Vodafone subscribers, which remains in production today. Developed an internal IBM employee search platform used across Central Europe and a configurable chatbot platform, demoed to enterprise clients. Also built the team's marketing pages, among other small PoCs. _React, Next.js, Vue.js_.
 
-🚀 Personal Projects & Entrepreneurship
+🚀 **Personal Projects & Entrepreneurship**
 
 **[number-flow-react-native](https://github.com/Rednegniw/number-flow-react-native)**: Beautiful number animations for React Native.
 
