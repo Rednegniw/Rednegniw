@@ -5,6 +5,7 @@ I am a professional web developer with 9+ years of experience building everythin
 Currently, in my spare time I'm working on:
 * Alcohol-tracking app based on Caffeine Clock
 * an open-source library called [number-flow-react-native](https://github.com/Rednegniw/number-flow-react-native).
+* another React Native open-source library still to be revealed
 
 **I'm open to work!** Either in Prague or remote via a contract. Let me know about any interesting opportunities at [antonin.wingender@gmail.com](mailto:antonin.wingender@gmail.com).
 
