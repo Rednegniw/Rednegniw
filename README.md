@@ -33,6 +33,10 @@ Worked in an internal innovation team called Watson iLab, building POCs and cust
 
 Built an open-source animated number transition library for React Native with both View-based and Skia renderers, full Intl.NumberFormat support, and many other features. 270+ GitHub stars, 3000+ weekly npm downloads. Actively working on this one!
 
+**[react-native-view-recorder](https://github.com/Rednegniw/react-native-view-recorder)**: Record any React Native view to MP4 video or image. Ideal for creating shareable content.
+
+Built an open-source library Turbo Module that captures any React Native view (including Skia canvases) frame-by-frame using native APIs and encodes with hardware-accelerated H.264/HEVC (AVAssetWriter on iOS, MediaCodec on Android). Currently around 50 GitHub stars.
+
 **[Caffeine Clock](https://www.caffeineclock.app)**: A React Native app for tracking caffeine intake and sleep optimization.
 
 Built and currently maintaining a caffeine tracking app for iOS and Android with 15,000+ downloads across both App Store and Google Play and a 4.8-star rating on Google Play. Implemented a pharmacokinetic model (two-compartment with absorption/elimination phases) to predict real-time caffeine levels. Built a custom interactive chart from scratch using React Native Skia with infinite scroll and time-window sliding. Maintained a parallel Kotlin implementation of the caffeine engine for the Android home screen widget. _React Native, Expo, TypeScript, Skia, Kotlin, SQLite._
