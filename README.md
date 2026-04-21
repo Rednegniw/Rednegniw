@@ -7,8 +7,6 @@ Currently, in my spare time I'm working on:
 * an open-source library called [number-flow-react-native](https://github.com/Rednegniw/number-flow-react-native).
 * an open-source library called [react-native-view-recorder](https://github.com/Rednegniw/react-native-view-recorder).
 
-**I'm open to work!** Either in Prague or remote via a contract. Let me know about any interesting opportunities at [antonin.wingender@gmail.com](mailto:antonin.wingender@gmail.com).
-
 💼 **Work experiences**
 
 **Senior Full Stack Developer** @ Access Labs (Remote) | *Nov 2024 - Jan 2026*
