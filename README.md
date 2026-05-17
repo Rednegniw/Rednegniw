@@ -21,7 +21,7 @@ Built out the [customer-facing developer dashboard](https://dashboard.tatum.io/)
 
 Owned the frontend billing flow in [Mews' hospitality platform](https://app.mews.com/), used by thousands of hotel properties across 55+ countries. Built and maintained the UI for invoicing and financial reporting. Migrated legacy server-rendered views to React. Implemented list virtualization for billing screens handling large reservations of 100+ guests. Part of an 8-person team within a 100+ engineer organization. Used primarily _React, TypeScript._
 
-**Watson iLab Web Developer** @ IBM | *Oct 2017 - Mar 2021*
+**Watson iLab Web Developer** @ IBM | *Oct 2017 - May 2021*
 
 Worked in an internal innovation team called Watson iLab, building POCs and customer-facing products. Built the frontend for Vodafone Czech Republic's customer service chatbot (Tobi), serving millions of Vodafone subscribers, which remains in production today. Developed an internal IBM employee search platform used across Central Europe and a configurable chatbot platform, demoed to enterprise clients. Also built the team's marketing pages, among other small PoCs. _React, Next.js, Vue.js_.
 
