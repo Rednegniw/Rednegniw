@@ -9,6 +9,10 @@ Currently, in my spare time I'm working on:
 
 💼 **Work experiences**
 
+**Product Engineer** @ [duvo.ai](https://duvo.ai/) | *Apr 2026 – Present*
+
+Own major product initiatives across duvo.ai’s AI-powered process intelligence platform. Built Clarity’s visual process editor, launched Clarity as a standalone product, and delivered enterprise access controls, agent scheduling, and a composable product-access architecture. Served as primary implementer for a CLI exposing process discovery, version comparison, evidence inspection, and structured exports. _Next.js, React, TypeScript, Node.js, PostgreSQL, LLM APIs._
+
 **Senior Full Stack Developer** @ Access Labs (Remote) | *Nov 2024 - Jan 2026*
 
 Built a large part of the frontend and the API layer for Access Protocol's [token launch platform](https://launch.accessprotocol.co/) as part of a 5-person team. Implemented a multi-step AI agent builder with character customization, a token marketplace with real-time trading data, and a creator dashboard, featuring deep integration with Solana SDK. Had significant influence over product design and UI. Previously, built a marketplace feature for Access Protocol Hub. Used _Next.js, React, TypeScript, Node.js, Go_.
