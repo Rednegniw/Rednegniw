@@ -1,9 +1,9 @@
 **Hi there, I'm Antonín.** 👋
 
-I am a professional web developer with 9+ years of experience building everything from massive enterprise systems to utility native apps. I love solving complex engineering problems and creating beautiful UIs, be it for large SaaS apps like my startup Bill Systems or for my caffeine tracking app, Caffeine Clock. Lately, I love to work with animations and open source libraries.
+I am a full-stack and mobile developer with 9+ years of experience, from enterprise platforms to independently shipped apps. I created [Abvy](https://abvy.app/), an alcohol tracker now available on Android, and [Caffeine Clock](https://www.caffeineclock.app), with 15,000+ downloads. I also build open-source React Native libraries for animations and native view recording, and previously co-founded Bill Systems, a SaaS platform for law offices.
 
 Currently, in my spare time I'm working on:
-* Alcohol-tracking app based on Caffeine Clock
+* [Abvy](https://abvy.app/) — released on [Google Play](https://play.google.com/store/apps/details?id=com.AWSoft.Abvy), with an [iPhone beta](https://abvy.app/).
 * an open-source library called [number-flow-react-native](https://github.com/Rednegniw/number-flow-react-native).
 * an open-source library called [react-native-view-recorder](https://github.com/Rednegniw/react-native-view-recorder).
 
@@ -31,13 +31,17 @@ Worked in an internal innovation team called Watson iLab, building POCs and cust
 
 🚀 **Personal Projects & Entrepreneurship**
 
+**[Abvy](https://abvy.app/)**: An alcohol tracker with live blood alcohol estimates, now available on [Google Play](https://play.google.com/store/apps/details?id=com.AWSoft.Abvy). iOS is in public beta.
+
+Built the app from the ground up, from product design and the personalized BAC model to an interactive chart with uncertainty ranges, native home-screen widgets, and a Wear OS companion app. Delivered on-device data storage, subscriptions, and lifetime purchases. _React Native, Expo, TypeScript, Skia._
+
 **[number-flow-react-native](https://github.com/Rednegniw/number-flow-react-native)**: Beautiful number animations for React Native.
 
-Built an open-source animated number transition library for React Native with both View-based and Skia renderers, full Intl.NumberFormat support, and many other features. 270+ GitHub stars, 3000+ weekly npm downloads. Actively working on this one!
+Built an open-source animated number transition library for React Native with both View-based and Skia renderers, full Intl.NumberFormat support, and many other features. 420+ GitHub stars, 23,000+ weekly npm downloads. Actively working on this one!
 
 **[react-native-view-recorder](https://github.com/Rednegniw/react-native-view-recorder)**: Record any React Native view to MP4 video or image. Ideal for creating shareable content.
 
-Built an open-source library Turbo Module that captures any React Native view (including Skia canvases) frame-by-frame using native APIs and encodes with hardware-accelerated H.264/HEVC (AVAssetWriter on iOS, MediaCodec on Android). Currently around 50 GitHub stars.
+Built an open-source library Turbo Module that captures any React Native view (including Skia canvases) frame-by-frame using native APIs and encodes with hardware-accelerated H.264/HEVC (AVAssetWriter on iOS, MediaCodec on Android). 120+ GitHub stars.
 
 **[Caffeine Clock](https://www.caffeineclock.app)**: A React Native app for tracking caffeine intake and sleep optimization.
 
@@ -59,4 +63,4 @@ Co-founded and built a full-stack SaaS platform for Czech law offices from scrat
 
 I'm a geek, an avid traveller, and always looking to learn more about the world. Trying to juggle my many hobbies at once.
 
-📫 **Get in Touch:** [LinkedIn](https://www.linkedin.com/) • [Email](mailto:antonin.wingender@gmail.com) • [X Profile](https://x.com/) • Telegram: @AWingender
+📫 **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/antonin-wingender/) • [Email](mailto:antonin.wingender@gmail.com) • [X Profile](https://x.com/WingenderA) • Telegram: @AWingender
