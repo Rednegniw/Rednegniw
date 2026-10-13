@@ -11,7 +11,7 @@ Currently, in my spare time I'm working on:
 
 **Product Engineer** @ [duvo.ai](https://duvo.ai/) | *Apr 2026 – Present*
 
-Own major product initiatives across duvo.ai’s AI-powered process intelligence platform. Built Clarity’s visual process editor and launched Clarity as a standalone product. Optimized process-map zooming to eliminate 113–189 ms rendering stalls on a profiled 425-node landscape, with zero long tasks in the measured zoom interaction. Delivered enterprise access controls, agent scheduling, and a composable product-access architecture. Served as primary implementer for a CLI exposing process discovery, version comparison, evidence inspection, and structured exports. _Next.js, React, TypeScript, Node.js, PostgreSQL, LLM APIs._
+Own major product initiatives across duvo.ai’s AI-powered process intelligence platform. Built Clarity’s visual process editor and launched Clarity as a standalone product. The platform supports 1,300+ qualified processes across 18 customer accounts. Optimized process-map zooming to eliminate 113–189 ms rendering stalls on a profiled 425-node landscape, with zero long tasks in the measured zoom interaction. Delivered enterprise access controls, agent scheduling, and a composable product-access architecture. Served as primary implementer for a CLI exposing process discovery, version comparison, evidence inspection, and structured exports. _Next.js, React, TypeScript, Node.js, PostgreSQL, LLM APIs._
 
 **Senior Full Stack Developer** @ Access Labs (Remote) | *Nov 2024 - Jan 2026*
 
